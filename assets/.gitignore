@@ -1,0 +1,41 @@
+
+
+# -----------------------
+# System (Windows)
+# -----------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -----------------------
+# Editor / IDE
+# -----------------------
+.vscode/
+.idea/
+
+# -----------------------
+# Logs / Temporales
+# -----------------------
+*.log
+*.tmp
+*.cache
+*.bak
+
+# -----------------------
+# Node / Builds
+# -----------------------
+node_modules/
+dist/
+build/
+
+# -----------------------
+# Swap / archivos de editores
+# -----------------------
+*.swp
+*.swo
+
+# -----------------------
+# Archivos binarios temporales
+# -----------------------
+*.orig
+*.rej
